@@ -96,10 +96,10 @@ openshift_master_console_port=8443
 
 #Default:  openshift_master_cluster_method=native
 # Internal cluster name
-openshift_master_cluster_hostname=master.techmogun.local
+openshift_master_cluster_hostname=41-prod-oc-master-1
 
 # NOTE: Default wildcard domain for applications
-openshift_master_default_subdomain=apps.master.192.168.10.5.xip.io
+openshift_master_default_subdomain=apps.master.10.68.186.41.xip.io
 
 ###########################################################################
 ### OpenShift Network Vars
